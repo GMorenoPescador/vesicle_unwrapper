@@ -1,0 +1,42 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Moreno-Pescador"
+  given-names: "Guillermo"
+  orcid: "https://orcid.org/0000-0001-6923-9923"
+title: Vesicle Strecher"
+version: 1.0
+doi: 
+date-released: 2022-09
+url: "https://github.com/GMorenoPescador/Vesicle_Strecher"
+# preferred-citation:
+#   type: article
+#   authors:
+#   - family-names: "Lisa"
+#     given-names: "Mona"
+#     orcid: "https://orcid.org/0000-0000-0000-0000"
+#   - family-names: "Bot"
+#     given-names: "Hew"
+#     orcid: "https://orcid.org/0000-0000-0000-0000"
+#   doi: "10.0000/00000"
+#   journal: "Journal Title"
+#   month: 9
+#   start: 1 # First page number
+#   end: 10 # Last page number
+#   title: "My awesome research software"
+#   issue: 1
+#   volume: 1
+#   year: 2021
+
+# @article {Moreno-Pescador2022.09.19.508467,
+# 	author = {Moreno-Pescador, Guillermo and Arastoo, Mohammad R. and Chiantia, Salvatore and Daniels, Robert and Bendix, Poul Martin},
+# 	title = {Thermoplasmonic induced vesicle fusion for investigating membrane protein phase affinity},
+# 	elocation-id = {2022.09.19.508467},
+# 	year = {2022},
+# 	doi = {10.1101/2022.09.19.508467},
+# 	publisher = {Cold Spring Harbor Laboratory},
+# 	URL = {https://www.biorxiv.org/content/early/2022/09/19/2022.09.19.508467},
+# 	eprint = {https://www.biorxiv.org/content/early/2022/09/19/2022.09.19.508467.full.pdf},
+# 	journal = {bioRxiv}
+# }
